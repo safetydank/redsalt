@@ -1,0 +1,8 @@
+redsalt
+-------
+
+A prototype testing Cinder classes inside of Google Native Client.  I've rewritten
+the Tumbler example to use Cinder classes where applicable.  Includes a GLES2
+wrapper class that is different from Cinder GLES2.
+
+
