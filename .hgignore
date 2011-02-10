@@ -1,0 +1,6 @@
+^cinder/
+^native_client_sdk/
+^include/shaders/.*\.h$
+\.o$
+tags
+dist/.*\.nexe
